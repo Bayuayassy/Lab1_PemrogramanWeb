@@ -5,7 +5,7 @@
  
  **Kelas : TI.22.A1**
 
- *1.Lakukan perubahan pada kode sesuai dengan keinginan anda, amati perubahannya adakah
+ *1. Lakukan perubahan pada kode sesuai dengan keinginan anda, amati perubahannya adakah
 error ketika terjadi kesalahan penulisan tag?*
 
 *2. Apa perbedaan dari tag <P dengan tag <br, berikan penjelasannya!*
