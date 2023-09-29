@@ -53,27 +53,14 @@ sebelumnya.**
 
 ![Cuplikan layar 2023-09-28 143624](https://github.com/Bayuayassy/Lab1_PemrogramanWeb/assets/115678251/e2a89c84-469c-4d6b-a4ce-fd662afcbac8)
 
+![Cuplikan layar 2023-09-28 131834](https://github.com/Bayuayassy/Lab1_PemrogramanWeb/assets/115678251/a510dd7d-29a4-4bba-8935-34b379671bc3)
+
 **Buat satu file lagi dengan nama lab1_halaman2.html kemudian isi dokumen tersebut dengan tag
 html dasar dan dengan isi bebas, boleh mengcopy dari halaman sebelumnya.**
 
-![Cuplikan layar 2023-09-28 131834](https://github.com/Bayuayassy/Lab1_PemrogramanWeb/assets/115678251/a510dd7d-29a4-4bba-8935-34b379671bc3)
+![Cuplikan layar 2023-09-29 170431](https://github.com/Bayuayassy/Lab1_PemrogramanWeb/assets/115678251/87195c31-a320-492e-aa30-f69d2b9b5be9)
 
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
-
- 
+![Cuplikan layar 2023-09-29 170446](https://github.com/Bayuayassy/Lab1_PemrogramanWeb/assets/115678251/fa8c37c5-0136-45a1-82ed-0dba2585ed73)
 
 # Soal
  *1. Lakukan perubahan pada kode sesuai dengan keinginan anda, amati perubahannya adakah
