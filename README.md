@@ -79,6 +79,8 @@ html dasar dan dengan isi bebas, boleh mengcopy dari halaman sebelumnya.**
  *1. Lakukan perubahan pada kode sesuai dengan keinginan anda, amati perubahannya adakah
 error ketika terjadi kesalahan penulisan tag?*
 
+- Ya, kesalahan penulisan tag dalam kode HTML dapat menyebabkan error atau masalah dalam halaman web. Kesalahan tersebut dapat mencakup tag yang tidak ditutup dengan benar, tag yang tidak valid, atau atribut yang salah
+
 *2. Apa perbedaan dari tag <P dengan tag <br, berikan penjelasannya!*
 
 ![bayu2](https://github.com/Bayuayassy/Lab1_PemrogramanWeb/assets/115678251/e38d0708-5b3a-4992-b623-ccc143501970)
@@ -100,6 +102,30 @@ error ketika terjadi kesalahan penulisan tag?*
 *4. Untuk mengatur ukuran gambar, digunakan atribut width dan height. Agar tampilan gambar
 proporsional sebaiknya kedua atribut tersebut diisi semua atau tidak? Berikan penjelasannya!*
 
+- Untuk mengatur ukuran gambar dalam HTML, dapat menggunakan atribut width (lebar) dan height (tinggi). Agar tampilan gambar tetap proporsional, sebaiknya mengisi hanya salah satu dari kedua atribut tersebut, biasanya width atau height, sementara yang lainnya akan dihitung secara otomatis oleh browser. Ini dilakukan karena gambar memiliki rasio aspek (aspect ratio), yang merupakan perbandingan antara lebar dan tingginya. Jika mengisi baik width maupun height, tanpa memperhatikan rasio aspek gambar, gambar tersebut dapat terlihat terdistorsi atau tidak proporsional.
+
 *5. Pada link tambahkan atribut target dengan nilai atribut bervariasi ( _blank, _self, _top,
 _parent ), apa yang terjadi pada masing-masing nilai antribut tersebut?*
+
+  1. `_blank`:
+   - Ketika `target="_blank"` digunakan, tautan akan membuka halaman yang ditautkan dalam tab atau 
+     jendela browser baru, terpisah dari halaman asal. Ini berguna ketika Anda ingin menjaga pengguna 
+     tetap di halaman asal dan membuka tautan eksternal atau tautan yang tidak ingin menggantikan halaman 
+     asal.
+
+  2. `_self`:
+   - Ini adalah nilai default untuk atribut `target`. Ketika `target="_self"` digunakan, tautan akan 
+     membuka halaman yang ditautkan di jendela atau tab yang sama di mana halaman asal berada. Ini 
+     berarti halaman asal akan digantikan dengan halaman yang baru.
+
+  3. `_top`:
+   - Ketika `target="_top"` digunakan, tautan akan membuka halaman yang ditautkan di jendela atau tab 
+     paling atas atau paling tinggi dalam tumpukan jendela browser. Jadi, jika halaman asal ada dalam 
+     bingkai (frame), tautan akan membuka halaman baru di luar bingkai tersebut.
+
+  4. `_parent`:
+   - `target="_parent"` digunakan ketika halaman web memiliki bingkai (frame) yang saling terkait. Ini 
+     akan membuka tautan di jendela atau tab yang menggantikan bingkai "induk" yang berisi tautan 
+     tersebut.
+
  
