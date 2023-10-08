@@ -62,7 +62,14 @@ html dasar dan dengan isi bebas, boleh mengcopy dari halaman sebelumnya.**
 
 ![Cuplikan layar 2023-09-29 170446](https://github.com/Bayuayassy/Lab1_PemrogramanWeb/assets/115678251/fa8c37c5-0136-45a1-82ed-0dba2585ed73)
 
+# Lakukan validasi dokumen html dengan mengakses http://validator.w3.org
+
+
+
+
+
 # Soal
+
  *1. Lakukan perubahan pada kode sesuai dengan keinginan anda, amati perubahannya adakah
 error ketika terjadi kesalahan penulisan tag?*
 
